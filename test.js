@@ -10,8 +10,8 @@ class Digimon {
             health: 50,
             maxHealth: 50, // 최대 체력 추가
             accuracy: 10,
-            evasion: 30, // 회피 확률 (%)
-            block: 50,   // 블록 확률 (%)
+            evasion: 5, // 회피 확률 (%)
+            block: 5,   // 블록 확률 (%)
             criticalChance: 10 // 크리티컬 확률 (%), 기본값 10%
         };
         this.evolutionPath = {
